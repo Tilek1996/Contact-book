@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "title": "df",
+      "price": "df",
+      "photo": "https://get.wallhere.com/photo/nature-mountains-clouds-landscape-1538657.jpg",
+      "description": "df",
+      "id": 1
+    },
+    {
+      "title": "fsdfs",
+      "price": "454656",
+      "photo": "http://wallpapers-images.ru/1920x1080/mountains/wallpapers/mountains-wallpapers-1920x1080-0007.jpg",
+      "description": "dgfgdh",
+      "id": 3
+    },
+    {
+      "title": "f",
+      "price": "dff",
+      "photo": "https://w-dog.ru/wallpapers/2/99/431422728717471/pejzazh-ushhele-reki-kolumbiya-zakat-oblaka-doroga-shtat-oregon-ssha.jpg",
+      "description": "df",
+      "id": 5
+    },
+    {
+      "title": "ва",
+      "price": "ыва",
+      "photo": "https://w-dog.ru/wallpapers/2/99/431422728717471/pejzazh-ushhele-reki-kolumbiya-zakat-oblaka-doroga-shtat-oregon-ssha.jpg",
+      "description": "ыпекпап",
+      "id": 6
+    }
+  ]
+}
